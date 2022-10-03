@@ -3,5 +3,6 @@
 - 🌱  I’m currently learning JavaScript
 - 📫  You can reach me by 
 email: vladralets@gmail.com
-telegram: @vladralets
+telegram: @VeraProgramisto
+
 
