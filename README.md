@@ -5,6 +5,7 @@ email: vladralets@gmail.com
 telegram: @vlad.rlts
 
 My main stack is: 
+- JS / TS
 - React / React Native / Next
 - Redux / Redux Toolkit / Zustand
 - Vue / Nuxt
