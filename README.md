@@ -2,7 +2,7 @@
 - 👀  I’m interested in Frontend development
 - 📫  You can reach me by 
 email: vladralets@gmail.com
-telegram: @vlad.rlts
+telegram: @vladralets
 
 My main stack is: 
 - JS / TS
